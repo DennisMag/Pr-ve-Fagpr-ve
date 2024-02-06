@@ -102,47 +102,164 @@
           <th>Bilder</th>
         </tr>
         <tr>
+          <td>atbl_DennisMagnussen_Lists</td>
           <td>
-            Ditt Tabellnavn her
+            Kun brukere som har tabellen i permissiontables får lov å slette/redigere/legge til her.
           </td>
           <td>
-            Ditt Tabellnavn her
+            Kun brukere som har tabellen i permissiontables får lov å slette/redigere/legge til her.
           </td>
           <td>
-            Insert regler her
-          </td>
-          <td>
-            Update regler her
-          </td>
-          <td>
-            Delete regler her
+            Kun brukere som har tabellen i permissiontables får lov å slette/redigere/legge til her.
           </td>
           <td>
             <table>
-      <th>
-<img
-              src="bilde_av_insert_trigger"
-              width="48"
-            />
-</th>
-      <th>
-<img
-              src="bilde_av_update_trigger"
-              width="48"
-            />
-</th>
-      <th>
-<img
-              src="bilde_av_delete_trigger"
-              width="48"
-            />
-</th>
-  </table>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/2873e437-e421-4458-9430-ba7c4a84ec3e" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/633879f7-b9e1-4496-aa92-c3ce4f9fac41" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/d2f2a337-c603-4263-8f64-2d90ffae3293" width="60" />
+              </th>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>atbl_DennisMagnussen_Items</td>
+          <td>
+          <p>
+            Kun brukere som har tabellen i permissiontables får lov å legge til her.
+          </p>
+          </td>
+          <td>
+          <p>
+            For oppdatering så må du eie handelisten som oppdateres, eller ha fått den tildelt i tillegg til å ha tilgang til å gjøre endringer her.<br>
+          </p>
+          </td>
+          <td>
+          <p>
+            For å slette må du eie handelisten.
+          </p>
+          </td>
+          <td>
+            <table>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/f6b4e821-d8fc-4dd1-9c82-d10f34640797" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/ad05a4e4-7203-4428-a7f2-cc4725b8f09c" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/a336b9dd-d08b-4f91-85e5-c8fed418ea0c" width="60" />
+              </th>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>atbl_DennisMagnussen_ListsItems</td>
+          <td>
+           For å kunne legge til her må brukeren være en del av handelisten eller fått den tildelt og i tillegg ha tilgang til å gjøre endringer.<br>
+          </td>
+           <td>
+            For å kunne legge til her må brukeren være en del av handelisten eller fått den tildelt og i tillegg ha tilgang til å gjøre endringer.<br>
+          </td>
+           <td>
+           For å kunne legge til her må brukeren være en del av handelisten eller fått den tildelt og i tillegg ha tilgang til å gjøre endringer gjennom permissiontables
+          </td>
+          <td>
+            <table>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/45b96cc2-70db-4237-a26c-0cdef9045487" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/fafacb52-2b96-49e8-b5f6-2cbed1a1b3c2" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/dbb916e3-f86d-4276-bc18-7009d7eeaead" width="60" />
+              </th>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>atbl_DennisMagnussen_ItemsTEMP</td>
+          <td>
+            Bare brukere som eier handelisten kan dele den videre.
+          </td>
+          <td>
+             Bare brukere som eier handelisten kan oppdatere hvem som skal kunne se den.
+          </td>
+          <td>
+            Bare brukere som eier handelisten kan fjerne delte folk.
+          </td>
+          <td>
+            <table>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/235ab8bc-1b15-440f-98cb-6d934c7adefd" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/07b90565-1e37-436d-812c-8bcbdfb9be80" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/dac51ae5-5540-4e60-bdb5-f7a31f3c0a78" width="60" />
+              </th>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>atbl_DennisMagnussen_SharedLists</td>
+          <td>
+            Bare brukere som eier handelisten kan dele den videre.
+          </td>
+          <td>
+             Bare brukere som eier handelisten kan oppdatere hvem som skal kunne se den.
+          </td>
+          <td>
+            Bare brukere som eier handelisten kan fjerne delte folk.
+          </td>
+          <td>
+            <table>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/235ab8bc-1b15-440f-98cb-6d934c7adefd" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/07b90565-1e37-436d-812c-8bcbdfb9be80" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/dac51ae5-5540-4e60-bdb5-f7a31f3c0a78" width="60" />
+              </th>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>atbl_DennisMagnussen_Categories</td>
+          <td>
+            Bare brukere som eier handelisten kan dele den videre.
+          </td>
+          <td>
+             Bare brukere som eier handelisten kan oppdatere hvem som skal kunne se den.
+          </td>
+          <td>
+            Bare brukere som eier handelisten kan fjerne delte folk.
+          </td>
+          <td>
+            <table>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/235ab8bc-1b15-440f-98cb-6d934c7adefd" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/07b90565-1e37-436d-812c-8bcbdfb9be80" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/dac51ae5-5540-4e60-bdb5-f7a31f3c0a78" width="60" />
+              </th>
+            </table>
           </td>
         </tr>
       </table>
   </details>
-      </details>
+  </details>
     </li>
     <li>
       <details>
@@ -151,25 +268,90 @@
           </summary>
         
   <table>
-  <tr>
-    <th>View Navn</th>
-    <th>Beskrivelse</th>
-    <th>Kode</th>
-  </tr>
-  <tr>
-    <td>DITT_VIEW_NAVN_HER</td>
-    <td>
-      View for å blalblalblal
-    </td>
-    <td>
-<table>
-<th>
-     <img src="bilde_av_view_her" width="60" />
-</th>
-</table>
-    </td>
-  </tr>
-</table>
+    <tr>
+      <th>View Navn</th>
+      <th>Beskrivelse</th>
+      <th>Kode</th>
+    </tr>
+    <tr>
+      <td>aviw_DennisMagnussen_Lists</td>
+      <td>
+        View for visning av lister lagd av seg selv.<br>
+        Viewet inneholder info om lista, med <br>
+        Legger også til alle som har fått tildelt handelisten i søkekolonnen.
+      </td>
+      <td>
+       <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/78e0cd7e-7fe2-4b99-acac-f2afabc8d5be" width="60" />
+      </td>
+    </tr>
+    <tr>
+      <td>aviw_DennisMagnussen_ListsItems</td>
+      <td>
+        View for å begrense hvem som ser hvilke handelister.<br>
+        Dette viewet tar med seg prosent fullført, hvem listen har blitt delt med for å vise "Shared with" på fremsiden som JSON.<br>
+        Legger også til alle som har fått tildelt handelisten i søkekolonnen.
+      </td>
+      <td>
+       <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/78e0cd7e-7fe2-4b99-acac-f2afabc8d5be" width="60" />
+      </td>
+    </tr>
+    <tr>
+      <td>aviw_DennisMagnussen_SharedLists</td>
+      <td>
+        View for å begrense hvem som ser hvilke handelister.<br>
+        Dette viewet tar med seg prosent fullført, hvem listen har blitt delt med for å vise "Shared with" på fremsiden som JSON.<br>
+        Legger også til alle som har fått tildelt handelisten i søkekolonnen.
+      </td>
+      <td>
+       <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/78e0cd7e-7fe2-4b99-acac-f2afabc8d5be" width="60" />
+      </td>
+    </tr>
+    <tr>
+      <td>aviw_DennisMagnussen_SharedToPersons</td>
+      <td>
+        View for å begrense hvem som ser hvilke handelister.<br>
+        Dette viewet tar med seg prosent fullført, hvem listen har blitt delt med for å vise "Shared with" på fremsiden som JSON.<br>
+        Legger også til alle som har fått tildelt handelisten i søkekolonnen.
+      </td>
+      <td>
+       <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/78e0cd7e-7fe2-4b99-acac-f2afabc8d5be" width="60" />
+      </td>
+    </tr>
+    <tr>
+      <td>aviw_DennisMagnussen_Categories</td>
+      <td>
+        View for å begrense hvem som ser hvilke handelister.<br>
+        Dette viewet tar med seg prosent fullført, hvem listen har blitt delt med for å vise "Shared with" på fremsiden som JSON.<br>
+        Legger også til alle som har fått tildelt handelisten i søkekolonnen.
+      </td>
+      <td>
+       <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/78e0cd7e-7fe2-4b99-acac-f2afabc8d5be" width="60" />
+      </td>
+    </tr>
+    <tr>
+      <td>aviw_DennisMagnussen_ItemsTEMP</td>
+      <td>
+        View for å begrense hvem som ser hvilke handelister.<br>
+        Dette viewet tar med seg prosent fullført, hvem listen har blitt delt med for å vise "Shared with" på fremsiden som JSON.<br>
+        Legger også til alle som har fått tildelt handelisten i søkekolonnen.
+      </td>
+      <td>
+       <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/78e0cd7e-7fe2-4b99-acac-f2afabc8d5be" width="60" />
+      </td>
+    </tr>
+    <tr>
+      <td>aviw_DennisMagnussen_PersonsLookup</td>
+      <td>
+        View for å begrense hvem som ser hvilke handelister.<br>
+        Dette viewet tar med seg prosent fullført, hvem listen har blitt delt med for å vise "Shared with" på fremsiden som JSON.<br>
+        Legger også til alle som har fått tildelt handelisten i søkekolonnen.
+      </td>
+      <td>
+       <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/78e0cd7e-7fe2-4b99-acac-f2afabc8d5be" width="60" />
+      </td>
+    </tr>
+  </table>
+  
       </details>
     </li>
   </ul>
