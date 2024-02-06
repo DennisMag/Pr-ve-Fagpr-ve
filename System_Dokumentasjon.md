@@ -322,4 +322,4 @@ For å sikre kvalitet på appen(e), har jeg laget en [Testrapport](https://githu
 
 
 <!-- Legg til URL for tabellstruktur her -->
-[tablestructure-url]: https://drawsql.app/teams/dittnavn123/diagrams/tabellstruktur
+[tablestructure-url]: https://drawsql.app/teams/asdfasfd/diagrams/handleliste
