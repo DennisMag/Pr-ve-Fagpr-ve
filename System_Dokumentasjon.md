@@ -65,7 +65,10 @@
     <h2>Teknologier</h2>
   </summary>
 
-- INSERT TEKNOLOGIER HER
+- Appframe 365 (NT)
+- Vue.js
+- [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+- [Bootstrap Icons](https://icons.getbootstrap.com)
 <hr>
 </details>
 <details open>
@@ -99,6 +102,9 @@
           <th>Bilder</th>
         </tr>
         <tr>
+          <td>
+            Ditt Tabellnavn her
+          </td>
           <td>
             Ditt Tabellnavn her
           </td>
