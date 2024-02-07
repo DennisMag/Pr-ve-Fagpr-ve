@@ -87,7 +87,7 @@
 ## Detalije Side
   <p>
     Pilen til venstre sender deg tilbake til liste visning. De to knappene til høyre er "People Shared With" og "Edit List".
-    <br><a href="Knappene">Klikk her for info om de to knappene</a>
+    <br><a href="#knappene">Klikk her for info om de to knappene</a>
   </p>
   
   <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/573cfb17-26f8-48d2-8f34-6acdf00f7833" width="300px">
