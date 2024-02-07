@@ -351,7 +351,7 @@
   <summary>
     <h2>Sikkerhet</h2>
   </summary>
-    
+  Authentication, Authorization. 
   Sikkerhet er løst ved hjelp av Appframe roller og moduler.
   Bruker får tildelt en rolle. Rollen er koblet til en egen modul som da gir brukeren tilgang til appen(e) og tabellene.
   
@@ -375,7 +375,7 @@ For å sikre kvalitet på appen(e), har jeg laget en [Testrapport](https://githu
   </summary>
 
 - For beskrivelse hvordan applikasjonen brukes se:
-  [Brukerveiledning](https://github.com/ArvidWedtstein/Fagproove-Template/wiki)
+  [Brukerveiledning](https://github.com/DennisMag/Pr-ve-Fagpr-ve/wiki)
 
 - Under finner du beskrivelse av funksjonaliteten sammen med litt kode:
 
@@ -390,66 +390,104 @@ For å sikre kvalitet på appen(e), har jeg laget en [Testrapport](https://githu
           <th>Kode</th>
           <th>Bilder</th>
         </tr>
-<!-- Eksempel: -->
         <tr>
           <td>Opprette ny handleliste</td>
           <td>
           <p>
             Her vil bruker kunne opprette ny handeliste. <br>
-            Rett er løst med å kalle på en funksjon med -1 index for å lage ny rad. (Bilde 1).<br>
-            osv....
+            Dette er løst med å kalle på en funksjon med -1 index for å lage ny rad. (Bilde 1).<br>
+            Funksjonen setter da indeksen på datasourcen til indeksen fra parameteren og setter CreateNewRef verdien til true.<br>
+            Indeksen settes for å kunne redigere rett rad i modalen eller for at den ikke skal vise en annen verdi når en lager ny liste siden denne funksjonen brukes til å både opprette og redigere handeliste (bilde 2). <br>
+            CreateNewRef brukes for å justere på modal tittel og lagringsknappen avhengig om bruker skal opprette eller redigere (bilde 3).
           </p>
           </td>
           <td>
-<table>
-  <th>
-<img src="ditt_bilde_av_kode_her" width="60" />
-</th>
-</table>
+            <table>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/b947ce12-290c-414b-aceb-fc4d5aa65b3e" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/a666985a-2cd5-4afc-b32b-540a0de20924" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/188f3c55-8baa-47da-bdc3-b784847bae06" width="60" />
+              </th>
+            </table>
           </td>
           <td>
-<table>
-  <th>
-<img src="ditt_bilde_av_ui_her" width="60" />
-</th>
-</table>
+            <table>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/0e7025e5-3653-4cb3-8b30-7a2a24dc85a4" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/54504e25-327b-41a7-882f-655ba58521e8" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/084497fa-64c4-493d-aafb-babf1261a1c2" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/3012eb71-ba13-4c74-b8fb-398c4d633f3f" width="60" />
+              </th>
+            </table>
           </td>
         </tr>
-      </table>
+      <table>
     </details>
 
   <details>
     <summary><h5>Detalje Side</h5></summary>
-
-    <table>
+      <table>
         <tr>
           <th>Funksjoner</th>
           <th>Beskrivelse</th>
           <th>Kode</th>
           <th>Bilder</th>
         </tr>
-      <tr>
-          <td>Legge til ny vare</td>
-          <td></td>
+        <tr>
+          <td>Opprette ny handleliste</td>
           <td>
-<table>
-  <th>
-<img src="ditt_bilde_av_kode_her" width="60" />
-</th>
-</table>
-</td>
-          <td> 
-<table>
-  <th>
-<img src="ditt_bilde_av_ui_her" width="60" />
-</th>
-</table>
+          <p>
+            Her vil bruker kunne opprette ny handeliste. <br>
+            Dette er løst med å kalle på en funksjon med -1 index for å lage ny rad. (Bilde 1).<br>
+            Funksjonen setter da indeksen på datasourcen til indeksen fra parameteren og setter CreateNewRef verdien til true.<br>
+            Indeksen settes for å kunne redigere rett rad i modalen eller for at den ikke skal vise en annen verdi når en lager ny liste siden denne funksjonen brukes til å både opprette og redigere handeliste (bilde 2). <br>
+            CreateNewRef brukes for å justere på modal tittel og lagringsknappen avhengig om bruker skal opprette eller redigere (bilde 3).
+          </p>
+          </td>
+          <td>
+            <table>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/b947ce12-290c-414b-aceb-fc4d5aa65b3e" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/a666985a-2cd5-4afc-b32b-540a0de20924" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/188f3c55-8baa-47da-bdc3-b784847bae06" width="60" />
+              </th>
+            </table>
+          </td>
+          <td>
+            <table>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/0e7025e5-3653-4cb3-8b30-7a2a24dc85a4" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/54504e25-327b-41a7-882f-655ba58521e8" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/084497fa-64c4-493d-aafb-babf1261a1c2" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/3012eb71-ba13-4c74-b8fb-398c4d633f3f" width="60" />
+              </th>
+            </table>
           </td>
         </tr>
-      </table>
+      <table>
     </details>
     
-<hr />
+<hr/>
 </details>
 <details open>
   <summary>
@@ -490,7 +528,7 @@ For å sikre kvalitet på appen(e), har jeg laget en [Testrapport](https://githu
 
   <ol>
     <li>
-      Insert dine kilder her
+      - Arvid (Dokumentasjon for fagprøven)
     </li>
   </ol>
  
