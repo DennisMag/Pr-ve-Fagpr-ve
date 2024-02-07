@@ -69,6 +69,7 @@
 - Vue.js
 - [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 - [Bootstrap Icons](https://icons.getbootstrap.com)
+- [DrawSQL](https://drawsql.app/)
 <hr>
 </details>
 <details open>
