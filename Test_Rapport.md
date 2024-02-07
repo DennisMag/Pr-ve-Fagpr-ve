@@ -1,9 +1,49 @@
 # Testrapport
 
 ### Plan for testing
-- Gå gjennom alle hovedfunksjonene, skrive ned eventuelle feil og resultat.
-- Lage ny bruker og logge inn
-  
+- Test prosedyren jeg bruker under er inspirert av den Cecilie lagde for Westcon prosjektet sine apper
+- Data/Functions
+  - Does the data display correctly?
+  - If changes are made, test all functionality that might have been affected.
+  - If the data is editable, ensure the view includes PrimKey and ID fields.
+  - Ensure all input fields match the datatype of the column. And that only editable columns are editable in the app.
+  - Are all alerts automatically closed?
+  - Are all datasources sorted?
+  - Are all numbers and dates formated and aligned correctly?
+  - Is there a userfriendly 'no data' message?
+  - Ensure that the following columns exists in aviw used in grids (For record information): ID, PrimKey, Created, CreatedBy_ID, Updated, UpdatedBy_ID
+
+- Layout
+  - Use the browsers built-in accessibility developer tools to test for any common issues
+  - Check if there are any clickable surfaces on touch/mobile that are too small or closely placed, and therefore making them difficult to separate.
+  - Check if all focusable elements have a proper label (with no typographical errors).
+  - Remove any unused CSS, JavaScript, or other libraries.
+  - Ensure apps are cross-browser compatible. As a minimum, based on latest client data, apps shall be tested for compatibility with both Chrome and Firefox latest versions.
+  - Ensure all strings in the UI are localized, and that there are no typographical errors.
+  - Check placements and styling of buttons.
+  - Ensure that sorting is implemented on all relevant columns.
+
+<details open>
+  <summary><h3>Kode</h3></summary>
+
+  <table>
+    <tr>
+      <th>App</th>
+      <th>Beskrivelse</th>
+      <th>Resultat</th>
+    </tr>
+    <tr>
+      <td>dennis-magnussen-shopping-lists (Liste visning/Hoved App)</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>dennis-magnussen-shopping-list (Vare visning/Detalije App)</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</details>
 <details open>
   <summary><h3>Hoved Side</h3></summary>
 
@@ -14,7 +54,6 @@
       <th>Resultat</th>
       <th>Bilder</th>
     </tr>
-  <!-- Eksempel -->
     <tr>
       <td>Navigere rundt</td>
       <td>Sjekk om liste visningen er i henhold til universiel utforming. Sjekk at ting viser og åpner som den skal. Sjekke om knapper er for små eller for store. Tilpass appen for alle størrelse mobiler</td>
@@ -82,6 +121,7 @@
         <table>
           <th><img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/7d3f861d-23ff-4b81-9a58-e38cc650dee5" width="60" /></th>
           <th><img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/0ea4f61f-ac24-475a-a9c4-57662e7c0b83" width="60" /></th>
+        </table>
       </td>
     </tr>
     <tr>
