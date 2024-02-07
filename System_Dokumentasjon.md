@@ -116,13 +116,13 @@
           <td>
             <table>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/2873e437-e421-4458-9430-ba7c4a84ec3e" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/d9a188fa-13fa-412b-90d7-2c03b53f38e0" width="60" />
               </th>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/633879f7-b9e1-4496-aa92-c3ce4f9fac41" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/12ae0d1a-7934-4ebb-b156-4a5ecd178299" width="60" />
               </th>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/d2f2a337-c603-4263-8f64-2d90ffae3293" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/12683ff7-abf1-4ea8-8a18-d3d4650ba0a2" width="60" />
               </th>
             </table>
           </td>
@@ -147,13 +147,13 @@
           <td>
             <table>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/f6b4e821-d8fc-4dd1-9c82-d10f34640797" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/14437ced-d4ee-4751-b88f-71f29f9465fe" width="60" />
               </th>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/ad05a4e4-7203-4428-a7f2-cc4725b8f09c" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/28102d2f-920b-40fc-9e39-23bfa14e5b60" width="60" />
               </th>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/a336b9dd-d08b-4f91-85e5-c8fed418ea0c" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/d6be6b43-2f78-4b17-8625-7208a6481a04" width="60" />
               </th>
             </table>
           </td>
@@ -172,13 +172,13 @@
           <td>
             <table>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/45b96cc2-70db-4237-a26c-0cdef9045487" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/7869c0cb-9bc9-4a42-807e-36a5e1ac4956" width="60" />
               </th>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/fafacb52-2b96-49e8-b5f6-2cbed1a1b3c2" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/278503f9-e323-46c3-889b-4a916191966d" width="60" />
               </th>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/dbb916e3-f86d-4276-bc18-7009d7eeaead" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/fcd0d73b-6dbe-47ae-94df-ed9a3ee541be" width="60" />
               </th>
             </table>
           </td>
@@ -197,13 +197,13 @@
           <td>
             <table>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/235ab8bc-1b15-440f-98cb-6d934c7adefd" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/10318051-acd2-4219-aa0d-47362a824ad2" width="60" />
               </th>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/07b90565-1e37-436d-812c-8bcbdfb9be80" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/06bc3f0a-9e6a-4dd3-a6b8-e96d2fa2f6d5" width="60" />
               </th>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/dac51ae5-5540-4e60-bdb5-f7a31f3c0a78" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/501494bf-a9ec-4023-8a6b-e42552d3af4e" width="60" />
               </th>
             </table>
           </td>
@@ -222,13 +222,13 @@
           <td>
             <table>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/235ab8bc-1b15-440f-98cb-6d934c7adefd" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/eb87b287-3208-4f91-8f48-c53aa5d90ee7" width="60" />
               </th>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/07b90565-1e37-436d-812c-8bcbdfb9be80" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/42e3296f-ddd9-4e3f-8437-482462f97e11" width="60" />
               </th>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/dac51ae5-5540-4e60-bdb5-f7a31f3c0a78" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/843de8cb-0dc0-4f09-a84b-b66f981039b7" width="60" />
               </th>
             </table>
           </td>
@@ -246,15 +246,6 @@
           </td>
           <td>
             <table>
-              <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/235ab8bc-1b15-440f-98cb-6d934c7adefd" width="60" />
-              </th>
-              <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/07b90565-1e37-436d-812c-8bcbdfb9be80" width="60" />
-              </th>
-              <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/dac51ae5-5540-4e60-bdb5-f7a31f3c0a78" width="60" />
-              </th>
             </table>
           </td>
         </tr>
@@ -352,12 +343,13 @@
   <summary>
     <h2>Sikkerhet</h2>
   </summary>
-  Authentication, Authorization. 
-  Sikkerhet er løst ved hjelp av Appframe roller og moduler.
-  Bruker får tildelt en rolle. Rollen er koblet til en egen modul som da gir brukeren tilgang til appen(e) og tabellene.
+  Autentisering blir gjort med SQL eller microsoft login. Det blir også brukt Two-Factor authentication for ekstra lag med sikkerhet.
+  Appframe bruker også rolle basert sikkerhet. Bruker får tildelt en rolle som har en sett med tilgang på forskjellige ting. 
+  Rollen blir også koblet opp mot en Module som har utvalgte apper og tabellen du kan da få tilgang til.
   
-  ![image](https://github.com/ArvidWedtstein/Fagproove/assets/71834553/0a9f2864-7bc9-4ea0-9a3f-412339a1ea1f)
-  ![image](https://github.com/ArvidWedtstein/Fagproove/assets/71834553/8647a516-2559-4f8b-9969-6d4cdfa02892)
+  ![image](https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/b7349591-131d-4848-a59c-6b417c36b005)
+  ![image](https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/46ef5f47-f5ac-4e8a-9fe4-e81e0538a3f8)
+
 
 <hr />
 </details>
@@ -365,8 +357,8 @@
   <summary>
     <h2>Testing</h2>
   </summary>
-    
-For å sikre kvalitet på appen(e), har jeg laget en [Testrapport](https://github.com/DennisMag/Pr-ve-Fagpr-ve/blob/main/Test_Rapport.md) der jeg har gått over funksjonene i appen.
+  
+  For testing brukte jeg denne test prosedyren [Testrapport](https://github.com/DennisMag/Pr-ve-Fagpr-ve/blob/main/Test_Rapport.md).
 
 <hr />
 </details>
@@ -376,7 +368,7 @@ For å sikre kvalitet på appen(e), har jeg laget en [Testrapport](https://githu
   </summary>
 
 - For beskrivelse hvordan applikasjonen brukes se:
-  [Brukerveiledning](https://github.com/DennisMag/Pr-ve-Fagpr-ve/wiki)
+  [Brukerveiledning](https://github.com/DennisMag/Pr-ve-Fagpr-ve/blob/main/Brukerveiledning.md)
 
 - Under finner du beskrivelse av funksjonaliteten sammen med litt kode:
 
@@ -436,32 +428,81 @@ For å sikre kvalitet på appen(e), har jeg laget en [Testrapport](https://githu
           <td>Redigere handle liste</td>
           <td>
           <p>
-            For å redigere handle liste åpner vi en omega komponent som heter ActionSheet. 
+            For å redigere handle liste åpner vi en omega komponent som heter ActionSheet.
+            <br>"Edit List" åpner en "Bottom Sheet" som inneholder noen inputs med en save og cancel button (se bilde 1). 
+            Knappene er omega komponenter som trenger bare å ta inn propen :dataObject og "Bottom Sheet" er også en omega komponent (se bilde 2).
           </p>
           </td>
           <td>
             <table>
               <th>
-                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/e4f23ce9-23ef-4a5c-9ed7-b7ece5e756b6" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/c5c3b555-5d10-4c74-88b1-fcfd13623b05" width="60" />
               </th>
               <th>
-                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/9474d436-5567-43ce-9c9c-11043997b424" width="60" />
-              </th>
-                <th>
-                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/8d4bfc0d-c3d7-4dd7-b9f5-793215052b19" width="60" />
-              </th>
-                <th>
-                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/fef26d42-d8b7-4993-b5c3-e8f0d4bc5b0b" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/e4f175fb-5939-4ca9-8a81-9ed6dd1d9d71" width="60" />
               </th>
             </table>
           </td>
           <td>
             <table>
               <th>
-                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/cfef533e-1451-434d-89f2-538538e47751" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/ed56ecf1-dbbc-484f-9c47-60b111066493" width="60" />
               </th>
               <th>
-                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/d7fdae51-854c-4bb8-8cfc-6d5029439948" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/ec826914-8044-47e9-9028-7d66be58b1f4" width="60" />
+              </th>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>Share List</td>
+          <td>
+          <p>
+            "Share List" åpner en "Bottom sheet" (bilde 1) som inneholder data fra dsSharedToPersons. Det blir lagt i en v-for som som lager en person for hver rad i datasourcen. 
+            For å slette Personen kjører jeg bare en row.Delete() (Bilde 2).<br>
+            For å legge til person bruker jeg en persons lookup ned #target template. denne gjør at jeg kan bruke en knapp med ref på scope som da vil kunne kjøre lookupen sin .open<br>
+            Blir da kjørt "addPerson" etter å ha valt en person som kjører .CreateNew() og legger til sel.ID som er verdien jeg hentet ut fra :bind for å da lage ny rad i dsSharedToPersons. (se bilde 3)
+          </p>
+          </td>
+          <td>
+            <table>
+              <th>
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/c5c3b555-5d10-4c74-88b1-fcfd13623b05" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/3ac34732-9d08-46bc-98a0-4a327e844154" width="60" />
+              </th>
+              <th>
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/b2957546-ea23-4c5d-8b97-86b27268f1fd" width="60" />
+              </th>
+            </table>
+          </td>
+          <td>
+            <table>
+              <th>
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/39d3aa98-7931-4fdb-90fd-99b3c25b10a5" width="60" />
+              </th>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>Delete List</td>
+          <td>
+          <p>
+            "Delete List" kjører bare funkjsonen deleteList() som bruker omega sin confirm control. Kjører dsLists.current.delete() for å slette lista og da gir de en alert toast og loader datasources.
+          </p>
+          </td>
+          <td>
+            <table>
+              <th>
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/ee89cc1a-cc9c-4ea0-91e5-7367bd40c4cc" width="60" />
+              </th>
+            </table>
+          </td>
+          <td>
+            <table>
+              <th>
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/683cd144-8f7e-426f-a4d3-11baaea2d8a8" width="60" />
               </th>
             </table>
           </td>
@@ -479,43 +520,101 @@ For å sikre kvalitet på appen(e), har jeg laget en [Testrapport](https://githu
           <th>Bilder</th>
         </tr>
         <tr>
-          <td>Opprette ny handleliste</td>
+          <td>Redigering av list</td>
           <td>
           <p>
-            Her vil bruker kunne opprette ny handeliste. <br>
-            Dette er løst med å kalle på en funksjon med -1 index for å lage ny rad. (Bilde 1).<br>
-            Funksjonen setter da indeksen på datasourcen til indeksen fra parameteren og setter CreateNewRef verdien til true.<br>
-            Indeksen settes for å kunne redigere rett rad i modalen eller for at den ikke skal vise en annen verdi når en lager ny liste siden denne funksjonen brukes til å både opprette og redigere handeliste (bilde 2). <br>
-            CreateNewRef brukes for å justere på modal tittel og lagringsknappen avhengig om bruker skal opprette eller redigere (bilde 3).
+            Knappene på toppen til høyre. Fungerer helt likt som "Share List" og "Edit List" på hoved siden.
           </p>
           </td>
           <td>
             <table>
-              <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/b947ce12-290c-414b-aceb-fc4d5aa65b3e" width="60" />
-              </th>
-              <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/a666985a-2cd5-4afc-b32b-540a0de20924" width="60" />
-              </th>
-              <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/188f3c55-8baa-47da-bdc3-b784847bae06" width="60" />
-              </th>
             </table>
           </td>
           <td>
             <table>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/0e7025e5-3653-4cb3-8b30-7a2a24dc85a4" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/cf1f59de-73c2-4b76-9ab9-5cf51af5b00c" width="60" />
+              </th>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>New Items</td>
+          <td>
+          <p>
+            Åpner modal. Inneholder 2 tabs. En med lookup til Items og en med fritekst. Har en v-if på Select Item for å hjemme den hvis IsPersonalList = 1 (bilde 1)
+            Begge tabsa har en "Add" knapp som kjører en .CreateNew() funksjon. 
+            Eneste forskjelle er at "Personal Item" tar inn parameter "PeronalItem" og "PersonalUnit", mens "Select Item" tar bare inn Item_ID(se bilde 2)
+            "Items to be added" er bare en v-for med dsTempItems datasourcen. Kjører dsTempItems.deleteItem(row) hvor "row" er dsTempItems.data med x index.
+            "Add" knappen helt nede til høyre kjører en SQL procedure med parameter "List_ID" (bilde 4)
+            Proceduren kjører en Insert inni listsItems og filtrerer ut items som allerede eksisterer. Kjører en Delete på slutten for å rydde ut temp tabellen. (bilde 5)
+          </p>
+          </td>
+          <td>
+            <table>
+                <th>
+                  <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/4f8c5fa6-577e-448a-b77a-ec110ac1d583" width="60px">
+                </th>
+                <th>
+                  <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/32753340-d378-4477-a447-44906476da25" width="60px">
+                </th>
+                  <th>
+                  <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/9544b67f-5211-49c0-887d-88ebda50a3db" width="60px">
+                </th>
+                <th>
+                  <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/58a8b7ce-bf21-4281-9b81-b34ba3abb07b" width="60px">
+                </th>
+                <th>
+                  <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/e1c3e0e6-84e5-40af-a796-c0ebf35d9a16" width="60px">
+                </th>
+            </table>
+          </td>
+          <td>
+            <table>
+              <th>
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/f252706a-ed83-4837-91ae-2b6b70668e08" width="60" />
+              </th>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>Redigering av Items</td>
+          <td>
+          <p>
+            3 dottene til høyre for en item. Åpner en "Bottom sheet" som har input felter med en v-if på IsPersonalItem. for å bytte mellom lookup og fritekst.
+          </p>
+          </td>
+          <td>
+            <table>
+            </table>
+          </td>
+          <td>
+            <table>
+              <th>
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/cf1f59de-73c2-4b76-9ab9-5cf51af5b00c" width="60" />
+              </th>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>Search Input</td>
+          <td>
+          <p>
+            Komponent fra omega. Trenger bare å lage en funksjon som kjører en dsDatasource.recordSource.filterString hvor "ItemName" inneholder pSearchString (bilde 2) som jeg hentet ut fra @onSearch (bilde 1)
+          </p>
+          </td>
+          <td>
+            <table>
+              <th>
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/70ec80bb-4d30-4511-89c0-21b82870fe4e" width="60">
               </th>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/54504e25-327b-41a7-882f-655ba58521e8" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/0d87e62d-8f56-4ea7-8624-fa7bb3506a7b" width="60">
               </th>
-              <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/084497fa-64c4-493d-aafb-babf1261a1c2" width="60" />
-              </th>
-              <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/3012eb71-ba13-4c74-b8fb-398c4d633f3f" width="60" />
-              </th>
+            </table>
+          </td>
+          <td>
+            <table>
             </table>
           </td>
         </tr>
@@ -527,16 +626,14 @@ For å sikre kvalitet på appen(e), har jeg laget en [Testrapport](https://githu
 <details open>
   <summary>
     <h2>Hindringer under utviklingen</h2>
+      
   </summary>
 
   <ol>
     <li>
-      <p>
-        Under utviklingen så møtte jeg på NT. Dette var et stort problem.
-      </p>
-      <table>
-        <th><img src="bilde_av_nt_her" width="60"></th>
-      </table>    
+      En veldig stor hindring var at jeg måtte publisere appen hver gang jeg ville se endringer. Dette strekket seg helt ut til tirdagen da jeg fant ut at jeg hadde brukt feil URL.
+      Denne triggeren stoppet meg når jeg skulle slette en liste. var en feil i tabellen. hadde cascade på.
+      <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/ec77d4f5-cd64-446f-a4aa-2d1d7f808440">
     </li>
   </ol>
 <hr />
@@ -549,7 +646,8 @@ For å sikre kvalitet på appen(e), har jeg laget en [Testrapport](https://githu
   <ol>
     <li>
       <p>
-        Insert ditt avvik her.
+        Tabell strukturen ble forandret ganske mye på. Ble aldri helt sikker på meg selv.
+        Shared Lists ble introdusert som en scope change på fredagen. Den fikk meg til å endre litt på data modellen.<br>
       </p>
     </li>
   </ol>
@@ -563,7 +661,16 @@ For å sikre kvalitet på appen(e), har jeg laget en [Testrapport](https://githu
 
   <ol>
     <li>
-      - Arvid (Dokumentasjon for fagprøven)
+      <a href="https://vuejs.org/guide/introduction.html" title="Vue Docs">Vue Docs</a>
+    </li>
+    <li>
+      <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Bootstrap Docs</a>
+    </li>
+    <li>
+      <a href="https://docs.omega365.com/nt/docs?Area-ID=10004">Omega GPT</a>
+    </li>
+    <li>
+      Code Snippets (Omega 365)
     </li>
   </ol>
  
