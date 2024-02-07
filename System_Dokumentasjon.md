@@ -58,6 +58,7 @@
 - Mulighet for registrering og innlogging for brukere.
 - Støtte for flere lister.
 - Må være lett for brukeren å vite hva som er handlet, og hva som gjenstår.
+- lage støtte for å dele handlelister med andre brukere. 
 <hr>
 </details>
 <details open>
@@ -632,6 +633,7 @@
   <ol>
     <li>
       En veldig stor hindring var at jeg måtte publisere appen hver gang jeg ville se endringer. Dette strekket seg helt ut til tirdagen da jeg fant ut at jeg hadde brukt feil URL.
+      Noe som også stoppet meg var at Appframe ikke ville ta inn endringene jeg gjorde på et view. Endte opp med å måtte kjøre "Restart application" på cache siden.
       Denne triggeren stoppet meg når jeg skulle slette en liste. var en feil i tabellen. hadde cascade på.
       <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/ec77d4f5-cd64-446f-a4aa-2d1d7f808440">
     </li>
@@ -648,6 +650,7 @@
       <p>
         Tabell strukturen ble forandret ganske mye på. Ble aldri helt sikker på meg selv.
         Shared Lists ble introdusert som en scope change på fredagen. Den fikk meg til å endre litt på data modellen.<br>
+        Fikk litt store ideer for Add Items funksjonen. skulle originalt bare ha en lookup med items, men endte opp med å ha Personal Items og en temp tabell for å previewe hvilke items jeg skulle legge til.
       </p>
     </li>
   </ol>
