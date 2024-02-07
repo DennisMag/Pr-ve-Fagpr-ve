@@ -24,27 +24,6 @@
   - Ensure that sorting is implemented on all relevant columns.
 
 <details open>
-  <summary><h3>Kode</h3></summary>
-
-  <table>
-    <tr>
-      <th>App</th>
-      <th>Beskrivelse</th>
-      <th>Resultat</th>
-    </tr>
-    <tr>
-      <td>dennis-magnussen-shopping-lists (Liste visning/Hoved App)</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>dennis-magnussen-shopping-list (Vare visning/Detalije App)</td>
-      <td></td>
-      <td></td>
-    </tr>
-  </table>
-</details>
-<details open>
   <summary><h3>Hoved Side</h3></summary>
 
 <table>
