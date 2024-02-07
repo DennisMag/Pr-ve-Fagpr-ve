@@ -1,17 +1,5 @@
 # Brukerveiledning
 
-<details>
-  <summary><h3>Table of Contents</h3></summary>
-  <ol>
-    <li>
-      <a href="#hoved-side">Hoved Side</a>
-      <ul>
-        <li><a href="#lage-ny-liste">Lage Ny Side</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
-
 ## Hoved Side
 
 ### Lage ny Liste
