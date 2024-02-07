@@ -395,38 +395,72 @@ For å sikre kvalitet på appen(e), har jeg laget en [Testrapport](https://githu
           <td>
           <p>
             Her vil bruker kunne opprette ny handeliste. <br>
-            Dette er løst med å kalle på en funksjon med -1 index for å lage ny rad. (Bilde 1).<br>
-            Funksjonen setter da indeksen på datasourcen til indeksen fra parameteren og setter CreateNewRef verdien til true.<br>
-            Indeksen settes for å kunne redigere rett rad i modalen eller for at den ikke skal vise en annen verdi når en lager ny liste siden denne funksjonen brukes til å både opprette og redigere handeliste (bilde 2). <br>
-            CreateNewRef brukes for å justere på modal tittel og lagringsknappen avhengig om bruker skal opprette eller redigere (bilde 3).
+            <br>
+            Løser dette med å åpne en CreateNewList Modal komponent jeg har laget. importerer komponenten og gir det en ref. 
+            innpå modal komponenten defineExposer jeg refen til den faktiske modal og da kan jeg hente ut den ut via den importerte komponenten. Kjører da en .Show() får å vise fram modal komponenten (Se bilde 1).<br>
+            Inn i modalen har jeg lagt til noen input felt pakket inn i en form element. Da får jeg lagt inn en verifisering av inputen med å legge inn "required" (Se bilde 2).<br>
+            For å lage lista bruker jeg en procedure som jeg laget i SQL. Den tar inn parameterene "ListName, Category_ID og Description" (Se bilde 3).<br>
+            Proceduren sjekker først om navnet ikke er allerede brukt i valgt kategori. så inserter den inn i Lists og tar ID som var lagt inn og selecte det sånt at vi kan da hente den ut i javascript koden (Se bilde 4).<br>
+            Tilslutt så åpner vi lista.
           </p>
           </td>
           <td>
             <table>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/b947ce12-290c-414b-aceb-fc4d5aa65b3e" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/7dc6e07c-f738-4c62-923c-316750cbcdb9" width="60" />
               </th>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/a666985a-2cd5-4afc-b32b-540a0de20924" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/9474d436-5567-43ce-9c9c-11043997b424" width="60" />
               </th>
-              <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/188f3c55-8baa-47da-bdc3-b784847bae06" width="60" />
+                <th>
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/8d4bfc0d-c3d7-4dd7-b9f5-793215052b19" width="60" />
+              </th>
+                <th>
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/fef26d42-d8b7-4993-b5c3-e8f0d4bc5b0b" width="60" />
               </th>
             </table>
           </td>
           <td>
             <table>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/0e7025e5-3653-4cb3-8b30-7a2a24dc85a4" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/cfef533e-1451-434d-89f2-538538e47751" width="60" />
               </th>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/54504e25-327b-41a7-882f-655ba58521e8" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/d7fdae51-854c-4bb8-8cfc-6d5029439948" width="60" />
+              </th>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>Redigere handle liste</td>
+          <td>
+          <p>
+            For å redigere handle liste åpner vi en omega komponent som heter ActionSheet. 
+          </p>
+          </td>
+          <td>
+            <table>
+              <th>
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/e4f23ce9-23ef-4a5c-9ed7-b7ece5e756b6" width="60" />
               </th>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/084497fa-64c4-493d-aafb-babf1261a1c2" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/9474d436-5567-43ce-9c9c-11043997b424" width="60" />
+              </th>
+                <th>
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/8d4bfc0d-c3d7-4dd7-b9f5-793215052b19" width="60" />
+              </th>
+                <th>
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/fef26d42-d8b7-4993-b5c3-e8f0d4bc5b0b" width="60" />
+              </th>
+            </table>
+          </td>
+          <td>
+            <table>
+              <th>
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/cfef533e-1451-434d-89f2-538538e47751" width="60" />
               </th>
               <th>
-                <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/3012eb71-ba13-4c74-b8fb-398c4d633f3f" width="60" />
+                <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/d7fdae51-854c-4bb8-8cfc-6d5029439948" width="60" />
               </th>
             </table>
           </td>
