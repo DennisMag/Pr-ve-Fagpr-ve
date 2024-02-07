@@ -94,6 +94,7 @@
 
   For tilgangsstyring så er sql triggere brukt.<br>
   Disse sørger for at ikke hvem som helst får lov å legge til, oppdatere eller slette rader.
+  Alle tabellene har også en atbv for å sørge for at feil data ikke blir vist
 
   <table>
         <tr>
