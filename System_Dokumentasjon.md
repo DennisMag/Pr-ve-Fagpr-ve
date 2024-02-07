@@ -130,7 +130,7 @@
           <td>atbl_DennisMagnussen_Items</td>
           <td>
           <p>
-            Kun brukere som har tabellen i permissiontables får lov å legge til her. Har en sjekk som stopper deg fra å legge til en Item som allrede eksisterer.
+            Kun brukere som har tabellen i permissiontables får lov å legge til her. Har en sjekk som stopper deg fra å legge til en vare som allrede eksisterer.
           </p>
           </td>
           <td>
@@ -140,7 +140,7 @@
           </td>
           <td>
           <p>
-            Kun brukere som har tabellen i permissiontables får lov å slette items.
+            Kun brukere som har tabellen i permissiontables får lov å slette varer
           </p>
           </td>
           <td>
@@ -160,7 +160,7 @@
         <tr>
           <td>atbl_DennisMagnussen_ListsItems</td>
           <td>
-           Kun brukere som har enten lagd lista eller har blitt tildelt lista har tilgang til å legge til nye items. Må også ha tabellen i permissiontables.<br>
+           Kun brukere som har enten lagd lista eller har blitt tildelt lista har tilgang til å legge til nye varer Må også ha tabellen i permissiontables.<br>
           </td>
            <td>
             Kun brukere som har enten lagd lista eller har blitt tildelt lista har tilgang til å Redigere. Må også ha tabellen i permissiontables.<br>
@@ -277,8 +277,7 @@
       <td>aviw_DennisMagnussen_Lists</td>
       <td>
         View for visning av lister lagd av seg selv.<br>
-        Viewet inneholder info om lista, med <br>
-        Legger også til alle som har fått tildelt handelisten i søkekolonnen.
+        Viewet inneholder info om lista. Lagt til ItemStatus kolonne for status på hvor mange varer er sjekket av og IsPersonalList bitfelt for å ikke rendere inn "Select Item" når en skal legge til nye varer
       </td>
       <td>
        <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/78e0cd7e-7fe2-4b99-acac-f2afabc8d5be" width="60" />
@@ -287,9 +286,8 @@
     <tr>
       <td>aviw_DennisMagnussen_ListsItems</td>
       <td>
-        View for å begrense hvem som ser hvilke handelister.<br>
-        Dette viewet tar med seg prosent fullført, hvem listen har blitt delt med for å vise "Shared with" på fremsiden som JSON.<br>
-        Legger også til alle som har fått tildelt handelisten i søkekolonnen.
+        View for visning av varer.<br>
+        Viewet inneholder info om varen. Lagt til IsPersonalItem bitfelt for å få en annen visning for varer som ikke er lagt inn med lookup.
       </td>
       <td>
        <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/78e0cd7e-7fe2-4b99-acac-f2afabc8d5be" width="60" />
@@ -298,9 +296,8 @@
     <tr>
       <td>aviw_DennisMagnussen_SharedLists</td>
       <td>
-        View for å begrense hvem som ser hvilke handelister.<br>
-        Dette viewet tar med seg prosent fullført, hvem listen har blitt delt med for å vise "Shared with" på fremsiden som JSON.<br>
-        Legger også til alle som har fått tildelt handelisten i søkekolonnen.
+        View for vising av lister delt med deg.<br>
+        Viwet inneholder info om listen og hvem det er lagd av. Lagt til ItemStatus kolonne for status på hvor mange varer er sjekket av.
       </td>
       <td>
        <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/78e0cd7e-7fe2-4b99-acac-f2afabc8d5be" width="60" />
@@ -309,9 +306,7 @@
     <tr>
       <td>aviw_DennisMagnussen_SharedToPersons</td>
       <td>
-        View for å begrense hvem som ser hvilke handelister.<br>
-        Dette viewet tar med seg prosent fullført, hvem listen har blitt delt med for å vise "Shared with" på fremsiden som JSON.<br>
-        Legger også til alle som har fått tildelt handelisten i søkekolonnen.
+        View for visning av hvilket personer som lista er delt med
       </td>
       <td>
        <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/78e0cd7e-7fe2-4b99-acac-f2afabc8d5be" width="60" />
@@ -320,9 +315,8 @@
     <tr>
       <td>aviw_DennisMagnussen_Categories</td>
       <td>
-        View for å begrense hvem som ser hvilke handelister.<br>
-        Dette viewet tar med seg prosent fullført, hvem listen har blitt delt med for å vise "Shared with" på fremsiden som JSON.<br>
-        Legger også til alle som har fått tildelt handelisten i søkekolonnen.
+        View for katergorier som lister skal grupperes med.<br>
+        Lagt til HasLists bitfelt for å ikke rendere inn kategorien hvis den ikke har noen lister.
       </td>
       <td>
        <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/78e0cd7e-7fe2-4b99-acac-f2afabc8d5be" width="60" />
@@ -331,9 +325,7 @@
     <tr>
       <td>aviw_DennisMagnussen_ItemsTEMP</td>
       <td>
-        View for å begrense hvem som ser hvilke handelister.<br>
-        Dette viewet tar med seg prosent fullført, hvem listen har blitt delt med for å vise "Shared with" på fremsiden som JSON.<br>
-        Legger også til alle som har fått tildelt handelisten i søkekolonnen.
+        View for preview av varer som skal bli lagt til.
       </td>
       <td>
        <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/78e0cd7e-7fe2-4b99-acac-f2afabc8d5be" width="60" />
@@ -342,9 +334,7 @@
     <tr>
       <td>aviw_DennisMagnussen_PersonsLookup</td>
       <td>
-        View for å begrense hvem som ser hvilke handelister.<br>
-        Dette viewet tar med seg prosent fullført, hvem listen har blitt delt med for å vise "Shared with" på fremsiden som JSON.<br>
-        Legger også til alle som har fått tildelt handelisten i søkekolonnen.
+        View for lookup av personer med rollen "Test-Fagprøve".
       </td>
       <td>
        <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/78e0cd7e-7fe2-4b99-acac-f2afabc8d5be" width="60" />
