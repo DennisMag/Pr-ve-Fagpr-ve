@@ -341,7 +341,6 @@
       </td>
     </tr>
   </table>
-  
       </details>
     </li>
   </ul>
