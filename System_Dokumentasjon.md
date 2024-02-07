@@ -1,55 +1,6 @@
 
 # System Dokumentasjon
 
-<details>
-  <summary>
-    <b>Table of Contents / Innhold</b>
-  </summary>
-  <ol>
-    <li>
-      <a href="#funksjonelle-krav">Funksjonelle krav</a>
-    </li>
-    <li>
-      <a href="#teknologier">Teknologier</a>
-    </li>
-    <li>
-      <a href="#teknologier">Arkitektur</a>
-       <ul>
-        <li>
-          <a href="#tabeller">Tabeller</a>
-          <ul>
-            <li>
-              <a href="#sikkerhet-i-tabeller">Sikkerhet i Tabeller</a>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <a href="#views">Views</a>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <a href="#sikkerhet">Sikkerhet</a>
-    </li>
-    <li>
-      <a href="#testing">Testing</a>
-    </li>
-    <li>
-      <a href="#grensesnittbeskrivelse">Grensesnittbeskrivelse</a>
-    </li>
-    <li>
-      <a href="#hindringer-under-utviklingen">Hindringer under utviklingen</a>
-    </li>
-    <li>
-      <a href="#avvik-fra-plan">Avvik fra plan</a>
-    </li>
-    <li>
-      <a href="#kilder">Kilder / Ressurser</a>
-    </li>
-  </ol>
-</details>
-
-
 <details open>
   <summary>
     <h2>Funksjonelle krav</h2>
