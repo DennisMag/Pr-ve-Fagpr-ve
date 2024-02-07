@@ -104,13 +104,13 @@
         <tr>
           <td>atbl_DennisMagnussen_Lists</td>
           <td>
-            Kun brukere som har tabellen i permissiontables får lov å slette/redigere/legge til her.
+            Kun brukere som har tabellen i permissiontables får lov å lage ny liste.
           </td>
           <td>
-            Kun brukere som har tabellen i permissiontables får lov å slette/redigere/legge til her.
+            Kun brukere som har tabellen i permissiontables og har lagd lista kan redigere.
           </td>
           <td>
-            Kun brukere som har tabellen i permissiontables får lov å slette/redigere/legge til her.
+            Kun brukere som har tabellen i permissiontables og har lagd lista kan slette den.
           </td>
           <td>
             <table>
@@ -130,17 +130,17 @@
           <td>atbl_DennisMagnussen_Items</td>
           <td>
           <p>
-            Kun brukere som har tabellen i permissiontables får lov å legge til her.
+            Kun brukere som har tabellen i permissiontables får lov å legge til her. Har en sjekk som stopper deg fra å legge til en Item som allrede eksisterer.
           </p>
           </td>
           <td>
           <p>
-            For oppdatering så må du eie handelisten som oppdateres, eller ha fått den tildelt i tillegg til å ha tilgang til å gjøre endringer her.<br>
+            Kun brukere som har tabellen i permissiontables får lov til å oppdatere.<br>
           </p>
           </td>
           <td>
           <p>
-            For å slette må du eie handelisten.
+            Kun brukere som har tabellen i permissiontables får lov å slette items.
           </p>
           </td>
           <td>
@@ -160,13 +160,13 @@
         <tr>
           <td>atbl_DennisMagnussen_ListsItems</td>
           <td>
-           For å kunne legge til her må brukeren være en del av handelisten eller fått den tildelt og i tillegg ha tilgang til å gjøre endringer.<br>
+           Kun brukere som har enten lagd lista eller har blitt tildelt lista har tilgang til å legge til nye items. Må også ha tabellen i permissiontables.<br>
           </td>
            <td>
-            For å kunne legge til her må brukeren være en del av handelisten eller fått den tildelt og i tillegg ha tilgang til å gjøre endringer.<br>
+            Kun brukere som har enten lagd lista eller har blitt tildelt lista har tilgang til å Redigere. Må også ha tabellen i permissiontables.<br>
           </td>
            <td>
-           For å kunne legge til her må brukeren være en del av handelisten eller fått den tildelt og i tillegg ha tilgang til å gjøre endringer gjennom permissiontables
+           Kun brukere som har enten lagd lista eller har blitt tildelt lista har tilgang til å slette. Må også ha tabellen i permissiontables.
           </td>
           <td>
             <table>
@@ -185,7 +185,7 @@
         <tr>
           <td>atbl_DennisMagnussen_ItemsTEMP</td>
           <td>
-            Bare brukere som eier handelisten kan dele den videre.
+            Kun brukere som har tabellen i permissiontables får lov å legge til her. Hvis 
           </td>
           <td>
              Bare brukere som eier handelisten kan oppdatere hvem som skal kunne se den.
@@ -210,13 +210,13 @@
         <tr>
           <td>atbl_DennisMagnussen_SharedLists</td>
           <td>
-            Bare brukere som eier handelisten kan dele den videre.
+            Bare brukere som eier handelisten kan dele den videre. Må også ha tabellen i permissiontables.
           </td>
           <td>
-             Bare brukere som eier handelisten kan oppdatere hvem som skal kunne se den.
+             Bare brukeren som har lagd listen kan oppdatere hvem listen er delt med. Må også ha tabellen i permissiontables.
           </td>
           <td>
-            Bare brukere som eier handelisten kan fjerne delte folk.
+            Brukeren som har lagd listen kan fjerne delte folk og brukere som har blitt tildelt listen kan fjerne seg selv som delt person. Må også ha tabellen i permissiontables.
           </td>
           <td>
             <table>
@@ -235,13 +235,13 @@
         <tr>
           <td>atbl_DennisMagnussen_Categories</td>
           <td>
-            Bare brukere som eier handelisten kan dele den videre.
+            Bare Dennis som kan legge til nye kategorier
           </td>
           <td>
-             Bare brukere som eier handelisten kan oppdatere hvem som skal kunne se den.
+             Bare Dennis som kan oppdaere kategorier
           </td>
           <td>
-            Bare brukere som eier handelisten kan fjerne delte folk.
+            Bare Dennis som kan fjerne kategorier
           </td>
           <td>
             <table>
