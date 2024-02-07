@@ -280,7 +280,7 @@
         Viewet inneholder info om lista. Lagt til ItemStatus kolonne for status på hvor mange varer er sjekket av og IsPersonalList bitfelt for å ikke rendere inn "Select Item" når en skal legge til nye varer
       </td>
       <td>
-       <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/78e0cd7e-7fe2-4b99-acac-f2afabc8d5be" width="60" />
+       <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/613f00a4-51e2-4428-aa4c-adeaaf9c8a0c" width="60" />
       </td>
     </tr>
     <tr>
@@ -290,7 +290,7 @@
         Viewet inneholder info om varen. Lagt til IsPersonalItem bitfelt for å få en annen visning for varer som ikke er lagt inn med lookup.
       </td>
       <td>
-       <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/78e0cd7e-7fe2-4b99-acac-f2afabc8d5be" width="60" />
+       <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/7b5bdd56-8996-4f2d-af1c-1d4942d57173" width="60" />
       </td>
     </tr>
     <tr>
@@ -300,7 +300,7 @@
         Viwet inneholder info om listen og hvem det er lagd av. Lagt til ItemStatus kolonne for status på hvor mange varer er sjekket av.
       </td>
       <td>
-       <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/78e0cd7e-7fe2-4b99-acac-f2afabc8d5be" width="60" />
+       <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/72a0b397-73f7-4bf4-9396-c7737f917ed6" width="60" />
       </td>
     </tr>
     <tr>
@@ -309,7 +309,7 @@
         View for visning av hvilket personer som lista er delt med
       </td>
       <td>
-       <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/78e0cd7e-7fe2-4b99-acac-f2afabc8d5be" width="60" />
+       <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/1137e0f1-1836-400f-8a60-a4f473896220" width="60" />
       </td>
     </tr>
     <tr>
@@ -319,7 +319,7 @@
         Lagt til HasLists bitfelt for å ikke rendere inn kategorien hvis den ikke har noen lister.
       </td>
       <td>
-       <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/78e0cd7e-7fe2-4b99-acac-f2afabc8d5be" width="60" />
+       <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/dabf118b-50da-4b37-ba17-f7fdb884819f" width="60" />
       </td>
     </tr>
     <tr>
@@ -328,7 +328,7 @@
         View for preview av varer som skal bli lagt til.
       </td>
       <td>
-       <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/78e0cd7e-7fe2-4b99-acac-f2afabc8d5be" width="60" />
+       <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/e4acebed-14a1-4eef-82fa-200c333a1260" width="60" />
       </td>
     </tr>
     <tr>
@@ -337,7 +337,7 @@
         View for lookup av personer med rollen "Test-Fagprøve".
       </td>
       <td>
-       <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/78e0cd7e-7fe2-4b99-acac-f2afabc8d5be" width="60" />
+       <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/bc1d21bb-5f5c-4f7d-a152-eb5d90348f51" width="60" />
       </td>
     </tr>
   </table>
@@ -365,7 +365,7 @@
     <h2>Testing</h2>
   </summary>
     
-For å sikre kvalitet på appen(e), har jeg laget en [Testrapport](https://github.com/ArvidWedtstein/Fagproove-Template/blob/main/Test_Report.md) der jeg har gått over funksjonene i appen.
+For å sikre kvalitet på appen(e), har jeg laget en [Testrapport](https://github.com/DennisMag/Pr-ve-Fagpr-ve/blob/main/Test_Rapport.md) der jeg har gått over funksjonene i appen.
 
 <hr />
 </details>
