@@ -635,7 +635,7 @@
     <li>
       En veldig stor hindring var at jeg måtte publisere appen hver gang jeg ville se endringer. Dette strekket seg helt ut til tirdagen da jeg fant ut at jeg hadde brukt feil URL.
       Noe som også stoppet meg var at Appframe ikke ville ta inn endringene jeg gjorde på et view. Endte opp med å måtte kjøre "Restart application" på cache siden.
-      Denne triggeren stoppet meg når jeg skulle slette en liste. var en feil i tabellen. hadde cascade på.
+      Denne triggeren stoppet meg når jeg skulle slette en liste. var en feil i tabellen.
       <img src="https://github.com/DennisMag/Pr-ve-Fagpr-ve/assets/108458368/ec77d4f5-cd64-446f-a4aa-2d1d7f808440">
     </li>
   </ol>
